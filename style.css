@@ -15,6 +15,7 @@ ol {
 }
 body {
     margin: 0;
+	font-family: 'neon';
 }
 div {
     padding-left: 50px;
@@ -38,7 +39,7 @@ div {
     }
     @font-face {
     font-family: 'neon';
-    src: url('../srcs/fonts/NeonPlanetDisplay.ttf') format('truetype');
+    src: url('../srcs/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype');
     }
 }
 
