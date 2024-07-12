@@ -3,12 +3,6 @@ a {
     text-decoration: none;
 }
 h1 {
-    font-size: 45px;
-    text-align: center;
-    border-bottom: 1px solid gray;
-    margin: 0;
-    padding: 20px;
-    border-radius: 70px;
     border-radius: 37px;
 background: #ffffff;
 box-shadow:  22px 22px 44px #d9d9d9,
