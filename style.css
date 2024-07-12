@@ -8,6 +8,10 @@ h1 {
     border-bottom: 1px solid gray;
     margin: 0;
     padding: 20px;
+    border-radius: 70px;
+background: #e0e0e0;
+box-shadow:  22px 22px 44px #bebebe,
+             -22px -22px 44px #ffffff;
 }
 ol {
     border-right: 1px solid gray;
