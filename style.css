@@ -36,4 +36,9 @@ div {
     h1 {
         border-bottom: none;
     }
+    @font-face {
+    font-family: 'neon';
+    src: url('../srcs/fonts/NeonPlanetDisplay.ttf') format('truetype');
+    }
 }
+
